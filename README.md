@@ -23,17 +23,17 @@
                 <td style="font-size:30px">ДЕНЬ 5+</td>
             </tr>
             <tr style="color:#caab4f">
-                <td rowspan="2">1<img src="https://o.remove.bg/downloads/aaec6445-d67e-4a70-813d-f24037a315a2/50-removebg-preview.png"height=25px/></td>
-                <td style="color:#9ae370">1,000<img src="https://o.remove.bg/downloads/86337183-bb0c-4952-9e13-71109238e15a/5-removebg-preview.png"height=25px/></td>
-                <td style="color:#9ae370">2,000<img src="https://o.remove.bg/downloads/86337183-bb0c-4952-9e13-71109238e15a/5-removebg-preview.png"height=25px/></td>
-                <td style="color:#9ae370">2,000<img src="https://o.remove.bg/downloads/86337183-bb0c-4952-9e13-71109238e15a/5-removebg-preview.png"height=25px/></td>
-                <td style="color:#9ae370">3,000<img src="https://o.remove.bg/downloads/86337183-bb0c-4952-9e13-71109238e15a/5-removebg-preview.png"height=25px/></td>
+                <td rowspan="2">1</td>
+                <td style="color:#9ae370">1,000</td>
+                <td style="color:#9ae370">2,000</td>
+                <td style="color:#9ae370">2,000</td>
+                <td style="color:#9ae370">3,000</td>
             </tr>
             <tr style="color:#caab4f">
-                <td>1<img src="https://o.remove.bg/downloads/aaec6445-d67e-4a70-813d-f24037a315a2/50-removebg-preview.png"height=25px/></td>
-                <td>1<img src="https://o.remove.bg/downloads/aaec6445-d67e-4a70-813d-f24037a315a2/50-removebg-preview.png"height=25px/></td>
-                <td>2<img src="https://o.remove.bg/downloads/aaec6445-d67e-4a70-813d-f24037a315a2/50-removebg-preview.png"height=25px/></td>
-                <td>2<img src="https://o.remove.bg/downloads/aaec6445-d67e-4a70-813d-f24037a315a2/50-removebg-preview.png"height=25px/></td>
+                <td>1</td>
+                <td>1</td>
+                <td>2</td>
+                <td>2</td>
             </tr>
         </table>
     </main>
